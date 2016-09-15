@@ -1,5 +1,5 @@
-# blender-api-php
-Blender Bulk SMS Platform - Send SMS via PHP
+# Mobivate Bulk SMS / PHP Library
+Mobivate Bulk SMS Platform - Send SMS via PHP
 
 
 
